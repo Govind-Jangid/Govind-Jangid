@@ -1,12 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Govind+Jangid;Developer+%7C+Problem+Solver;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Govind+Jangid;Technofunctional+ERPNext+Consultant;Frappe+Framework+Developer;Bridging+Business+%26+Technology" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Govind-Jangid&label=Profile%20views&color=A855F7&style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Govind-Jangid?tab=followers">
     <img src="https://img.shields.io/github/followers/Govind-Jangid?label=Followers&style=for-the-badge&color=A855F7&labelColor=1c1c1c" alt="Followers" />
   </a>
@@ -14,10 +11,26 @@
 
 ---
 
+## 💼 What I Do
+
+- 🧩 **Technofunctional ERPNext Consultant** — bridging business processes and technical implementation
+- ⚙️ Building custom apps and workflows on the **Frappe Framework**
+- 🏭 Implementing ERP modules: Accounting, Manufacturing, Stock, CRM, HR & Payroll
+- 🔧 Customizations, Server & Client Scripts, Report Builder, and REST API integrations
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white" alt="ERPNext" />
+  <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Frappe" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,linux,docker,git,github,vscode,nginx,bash&theme=dark" alt="Tech stack" />
 </p>
 
 ---
